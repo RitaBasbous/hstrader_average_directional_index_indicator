@@ -1,0 +1,8 @@
+hstrader
+pandas
+plotly
+python-dotenv
+ipywidgets
+IPython
+numpy
+nest-asyncio
