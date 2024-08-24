@@ -25,14 +25,14 @@ CLIENT_SECRET=your_client_secret
 
 These variables enable secure access to market data from the [HSTRADER](https://staging.hstrader.com/login) platform.
 
-**Reminder:**
+**Note:**
 Your unique `CLIENT_ID` and `CLIENT_SECRET` can be obtained from your personal account on the platform. Ensure you keep them confidential to protect your data.
 
 ### Average Directional Index (ADX) Overview
 
 The Average Directional Index (ADX) is used to determine the strength of a trend, whether it's an upward or downward trend. It is a non-directional indicator, meaning it quantifies trend strength regardless of trend direction.
 
-### Components of ADX Analysis
+### Components of ADX 
 
 1. **ADX Line:**
    - Measures the strength of the trend.
@@ -46,18 +46,8 @@ The Average Directional Index (ADX) is used to determine the strength of a trend
    - Measures the strength of the downward movement.
    - When -DI is above +DI, the market is in a downtrend.
 
-### Why Use ADX?
+### Interpreting the ADX Chart
 
-1. **Trend Strength Measurement:**
-   - Helps traders determine whether the market is trending or range-bound.
-
-2. **Signal Validation:**
-   - ADX, combined with +DI and -DI, can validate trade signals, offering insights into potential market entries and exits.
-
-3. **Versatile Tool:**
-   - Works well across various time frames and asset classes, making it a reliable tool for traders.
-
+- **ADX Line:** A rising ADX line indicates a strengthening trend, while a falling ADX suggests weakening momentum.
+- **+DI vs. -DI:** The relationship between +DI and -DI can indicate whether the trend is upward or downward. When +DI crosses above -DI, it signals a potential buy, and when -DI crosses above +DI, it signals a potential sell.
  
- ## Conclusion
-
-This script offers a powerful tool for forex traders, providing real-time market analysis using the ADX indicator. Whether you're monitoring a specific forex pair or analyzing market trends, this script helps you stay ahead by offering insights into trend strength and potential market movements.
