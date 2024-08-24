@@ -2,7 +2,7 @@
 
 ![adx](img/average_directional_index.png)
 
-This Python script visualizes the  Average Directional Index (ADX) indicator using both real-time and historical market data.The ADX is a popular technical analysis tool used to quantify the strength of a trend in the market.
+This Python script visualizes the  Average Directional Index (ADX) indicator using both real-time and historical market data.
 
 ## Prerequisites
 
